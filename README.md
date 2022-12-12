@@ -1,2 +1,2 @@
 # Python_Projects
-Python projects such as algorithms and analyzing data
+Python projects from Data structures and Algorithms course.
