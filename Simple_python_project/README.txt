@@ -1,1 +1,1 @@
-Simple project data is first read and then analyzed and written to another file.
+Simple program which analyzes data from the file and then writes the data to given file.
